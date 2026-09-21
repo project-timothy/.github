@@ -15,7 +15,7 @@ doing the work can get back to it.
   missionary takes gifts without giving up their own books or paying a
   cut of every dollar to a platform.
 - **[website](https://github.com/project-timothy/website)**, the public
-  landing page: **[asktimothy-website.vercel.app](https://asktimothy-website.vercel.app)**
+  landing page: **[asktimothy.org](https://asktimothy.org)**
 
 ### How it's built
 
