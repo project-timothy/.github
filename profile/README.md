@@ -20,7 +20,7 @@ doing the work can get back to it.
 ### How it's built
 
 - **Open source.** AGPL-3.0 on the core, with an additional permission
-  under section 7 (the CiviCRM model) so a contribution comes in under
+  under section 7 so a contribution comes in under
   Apache-2.0 without a signed CLA.
 - **Never holds funds.** Every deployment routes money through the
   receiving organization's own merchant account. The platform is never
